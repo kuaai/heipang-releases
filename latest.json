@@ -1,0 +1,6 @@
+{
+  "version": "0.1.1",
+  "notes": "应用内自动更新上线",
+  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-arm64.dmg",
+  "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
+}

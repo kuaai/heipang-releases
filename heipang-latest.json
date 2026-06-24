@@ -1,0 +1,6 @@
+{
+  "version": "0.1.2",
+  "notes": "支持 PDF 附件，隐藏 Thinking 和工具过程，增加中断自动重试。",
+  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-arm64.dmg",
+  "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
+}

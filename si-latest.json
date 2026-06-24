@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "notes": "支持 PDF 附件，隐藏 Thinking 和工具过程，增加中断自动重试。",
+  "version": "0.1.3",
+  "notes": "优化图标按钮样式，去掉多余边框，让界面更轻、更干净。",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/SI-YOU-XIN-REN-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
 }

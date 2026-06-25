@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
-  "notes": "System-generated progress and error messages now default to English. Also includes concise agent progress and faster session list refresh.",
+  "version": "0.1.6",
+  "notes": "Skills with malformed YAML frontmatter are loaded more leniently, and Settings → Skills now shows skill diagnostics instead of silently hiding them.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/SI-YOU-XIN-REN-arm64.dmg"
 }

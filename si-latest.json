@@ -1,6 +1,5 @@
 {
-  "version": "0.1.3",
-  "notes": "优化图标按钮样式，去掉多余边框，让界面更轻、更干净。",
-  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/SI-YOU-XIN-REN-arm64.dmg",
-  "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
+  "version": "0.1.5",
+  "notes": "System-generated progress and error messages now default to English. Also includes concise agent progress and faster session list refresh.",
+  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/SI-YOU-XIN-REN-arm64.dmg"
 }

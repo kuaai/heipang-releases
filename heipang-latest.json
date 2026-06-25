@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
-  "notes": "新增简略进度提示；修复新建文件夹和 New session 后左侧列表刷新不及时的问题。",
+  "version": "0.1.5",
+  "notes": "System-generated progress and error messages now default to English.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-arm64.dmg"
 }

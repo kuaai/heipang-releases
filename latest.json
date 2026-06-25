@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "notes": "SI-YOU-XIN-REN：优化图标按钮样式，去掉多余边框，让界面更轻、更干净。",
-  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/SI-YOU-XIN-REN-arm64.dmg",
+  "version": "0.1.7",
+  "notes": "侧栏：去掉每个会话下面的时间戳；放大并加粗文件夹标题，让它和会话标题在视觉上区分开。",
+  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
 }

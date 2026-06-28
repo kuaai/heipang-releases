@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "notes": "侧栏：去掉每个会话下面的时间戳；放大并加粗文件夹标题，让它和会话标题在视觉上区分开。",
+  "version": "0.1.8",
+  "notes": "对话区加了一只很淡、模糊的大黑胖作为背景水印，隐约可见，不影响阅读。",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
 }

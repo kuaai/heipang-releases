@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "notes": "Meta Vincent: sort daily recordings into projects (Memory / To-do / Ideas), with share/export.",
+  "version": "0.2.1",
+  "notes": "Cards: 4+ per row; each card has a 'note' button to open the original Markdown.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

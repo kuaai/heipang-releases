@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "notes": "Fix: note viewer header buttons (close / show in folder) now clickable.",
+  "version": "0.2.4",
+  "notes": "Fix: sidebar folder badge clears immediately after you empty a project inbox.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

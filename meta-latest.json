@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "notes": "Open the original note inside HEIPANG (in-app Markdown viewer); responsive card grid.",
+  "version": "0.2.3",
+  "notes": "Fix: note viewer header buttons (close / show in folder) now clickable.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

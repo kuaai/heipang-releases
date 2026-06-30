@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "notes": "Cards: 4+ per row; each card has a 'note' button to open the original Markdown.",
+  "version": "0.2.2",
+  "notes": "Open the original note inside HEIPANG (in-app Markdown viewer); responsive card grid.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

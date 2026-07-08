@@ -1,6 +1,0 @@
-{
-  "version": "0.1.8",
-  "notes": "对话区加了一只很淡、模糊的大黑胖作为背景水印，隐约可见，不影响阅读。",
-  "mac": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-arm64.dmg",
-  "win": "https://github.com/kuaai/heipang-releases/releases/download/latest/HEIPANG-Setup.exe"
-}

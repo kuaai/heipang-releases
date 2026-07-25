@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "notes": "Fix: sidebar folder badge clears immediately after you empty a project inbox.",
+  "version": "0.2.5",
+  "notes": "Latest-model pulling: live Anthropic model list + newest OpenAI models via an auto-refreshing catalog, with correct context windows. Pick recent models (Claude 4.7+, GPT 5.5+) in the chat dropdown.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

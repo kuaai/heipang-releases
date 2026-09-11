@@ -1,6 +1,6 @@
 {
-  "version": "0.2.6",
-  "notes": "Model manager: bundled models (e.g. GPT-5.5) are now selectable — 'already added' means already enabled, not merely present in the catalog.",
+  "version": "0.3.0",
+  "notes": "pi core upgraded to 0.85.1: new model/auth runtime, thinking level 'max' for the Claude 5 family, correct Codex context windows so auto-compaction triggers before the provider rejects the request, and proxy-safe streaming.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

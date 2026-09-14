@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "notes": "pi core 0.85.1. Fixes streamed responses behind proxies that compress without a content-encoding header (gzip and brotli), and reads Codex context windows from the live model list.",
+  "version": "0.3.2",
+  "notes": "Fix: Codex context windows now use the provider's real ceiling (872k for GPT-6 Astra / GPT-5.6), so auto-compaction no longer fires after a couple of turns.",
   "mac": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-arm64.dmg",
   "win": "https://github.com/kuaai/heipang-releases/releases/download/meta-latest/HEIPANG-Meta-Setup.exe"
 }

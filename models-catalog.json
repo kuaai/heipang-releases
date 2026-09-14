@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-09-11",
-  "note": "Latest models for HEIPANG Meta. Anthropic is pulled live from your account (/v1/models) and OpenAI/Codex from the live Codex model list; this catalog is the offline fallback and must match the providers' real context windows. A wrong window disables auto-compaction until the provider hard-fails.",
+  "updated": "2026-09-12",
+  "note": "Offline fallback catalog. Anthropic comes live from /v1/models and Codex from the live model list, where max_context_window is the real ceiling (context_window is only the CLI's default truncation point). A window that is too small makes auto-compaction fire far too early; one that is too large lets the provider hard-fail.",
   "models": [
     {
       "provider": "openai-codex",
       "id": "gpt-6-astra",
       "name": "GPT-6 Astra",
       "reasoning": true,
-      "contextWindow": 272000,
+      "contextWindow": 872000,
       "maxTokens": 128000
     },
     {
@@ -16,7 +16,7 @@
       "id": "gpt-5.6-sol",
       "name": "GPT-5.6 Sol",
       "reasoning": true,
-      "contextWindow": 272000,
+      "contextWindow": 872000,
       "maxTokens": 128000
     },
     {
@@ -24,7 +24,7 @@
       "id": "gpt-5.6-terra",
       "name": "GPT-5.6 Terra",
       "reasoning": true,
-      "contextWindow": 272000,
+      "contextWindow": 872000,
       "maxTokens": 128000
     },
     {
@@ -32,7 +32,7 @@
       "id": "gpt-5.6-luna",
       "name": "GPT-5.6 Luna",
       "reasoning": true,
-      "contextWindow": 272000,
+      "contextWindow": 872000,
       "maxTokens": 128000
     },
     {
